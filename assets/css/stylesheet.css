@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    margin: 250px;
+}
+
+#color {
+    background-color: rgb(0, 146, 139);
+    width: 200px;
+    height: 200px;
+
+}
+
+#colora {
+    background-color: rgb(0, 146, 139);
+    width: 200px;
+    height: 200px;
+}
+
+#colord {
+    background-color: rgb(0, 146, 139);
+    width: 200px;
+    height: 200px;
+}
+
+#colors {
+    background-color: rgb(0, 146, 139);
+    width: 200px;
+    height: 200px;
+}
